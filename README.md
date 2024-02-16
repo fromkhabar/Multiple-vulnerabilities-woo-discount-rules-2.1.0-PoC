@@ -1,3 +1,8 @@
+<meta name="author" content="fromkhabar">
+<meta name="description" content="Multiple-vulnerabilities-woo-discount-rules-2.1.0-PoC">
+<meta name="copyright" content="Your name 2022">
+<meta name="keywords" content="woo-discount-rules-2.1.0, PoC, WooCommerce 2.1.0">
+
 # Multiple-vulnerabilities-woo-discount-rules-2.1.0-PoC
 Proof-of-Concept for Discount Rules for WooCommerce &lt; 2.1.0 authorization issues
 
