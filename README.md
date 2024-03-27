@@ -2,6 +2,7 @@
 <meta name="description" content="Multiple-vulnerabilities-woo-discount-rules-2.1.0-PoC">
 <meta name="copyright" content="Your name 2022">
 <meta name="keywords" content="woo-discount-rules-2.1.0, PoC, WooCommerce 2.1.0">
+<meta name="google-site-verification" content="Pz5jp24eSG950_DG8lj49sUOAC0YUjuhwj63sb112w4" />
 
 # Multiple-vulnerabilities-woo-discount-rules-2.1.0-PoC
 Proof-of-Concept for Discount Rules for WooCommerce &lt; 2.1.0 authorization issues
